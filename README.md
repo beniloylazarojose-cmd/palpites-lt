@@ -1,2 +1,2 @@
-# palpites-lt
-Site oficial do Palpites de LT
+# palpites -lt
+Site oficial de Palpites de LT
